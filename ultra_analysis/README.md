@@ -3,7 +3,7 @@
 ## Overview
 This project is a comprehensive SQL analysis of race event data, focusing on individual performance metrics, demographic breakdowns, and visualization of results through various SQL queries and dashboard using Looker.
 
-![Ultra Dash Visualizaztion](./Ultra_Dash.png)
+![Ultra Dash Visualizaztion](Ultra_Dash.png)
 
 [Ultra Dash Link](https://lookerstudio.google.com/reporting/ea1ad194-789a-421d-bf91-b871cd527308)
 
